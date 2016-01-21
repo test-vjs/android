@@ -1,3 +1,11 @@
+Marsh
+===========
+
+Lol, this does not contain everything because I can't remember all the places I changed stuff...
+But it has Blur! (Hooray)
+
+
+
 CyanogenMod
 ===========
 
@@ -31,7 +39,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
+    repo init -u git://github.com/MarshRom/android.git -b cm-13.0
 
 Then to sync up:
 

@@ -2,8 +2,7 @@ Marsh
 ===========
 
 Lol, this does not contain everything because I can't remember all the places I changed stuff...
-But it has Blur! (Hooray)
-Dont use this specific git yet, I still need to add all of my custom repos
+But it has Blur!
 
 
 Submitting Patches

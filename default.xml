@@ -23,7 +23,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
-  <project path="android" name="MarshRom/android" />
+  <project path="android" name="MarshRom/android" >
       <copyfile src="local_manifests/roomservice.xml" dest=".repo/local_manifests/roomservice.xml" />
   </project>
   

@@ -12,6 +12,7 @@
   <remove-project name="CyanogenMod/android_system_core" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_packages_apps_Eleven" />
+  <remove-project name="CyanogenMod/android_build" />
 
   <project name="MarshRom/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="cm-13.0" />
   <project name="MarshRom/android_frameworks_base" path="frameworks/base" remote="github" revision="cm-13.0" />
@@ -19,4 +20,5 @@
   <project name="MarshRom/android_system_core" path="system/core" remote="github" revision="cm-13.0" />
   <project name="MarshRom/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" remote="github" revision="cm-13.0" />
   <project name="MarshRom/android_packages_apps_Eleven" path="packages/apps/Eleven" remote="github" revision="cm-13.0" />
+  <project name="MarshRom/android_build" path="build" remote="github" revision="cm-13.0" />
 </manifest>

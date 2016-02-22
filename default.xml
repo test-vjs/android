@@ -23,9 +23,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
-  <project path="android" name="MarshRom/android" revision="cm-13.0-test" >
-      <copyfile src="local_manifests/roomservice.xml" dest=".repo/local_manifests/roomservice.xml" />
-  </project>
+  <project path="android" name="MarshRom/android" revision="cm-13.0-test" />
   
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />

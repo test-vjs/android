@@ -35,4 +35,4 @@ Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building ins
 
 Buildbot
 --------
-Anyone want to supply me with a computer on 24/7 with decent specs?
+How to make one? I used jenkins, made it run in users account, and then do the normal things (cd, envsetup.sh, lunch. mka)

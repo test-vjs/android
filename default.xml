@@ -19,7 +19,7 @@
            sync-j="4" />
 
 <!-- BEGIN CYANOGENMOD -->
-  <project path="build" name="MarshRom/android_build" groups="pdk" >
+  <project path="build" name="CyanogenMod/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
@@ -518,6 +518,6 @@
   <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" />
   <project name="jgcaap/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" revision="cm-13.0s"  />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" />
-  <project name="MarshRom/proprietary_vendor_oneplus" path="vendor/oneplus" />
+  <project name="CyanogenMod/proprietary_vendor_oneplus" path="vendor/oneplus" />
 
 </manifest>

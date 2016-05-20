@@ -28,7 +28,7 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
+  <project path="bootable/recovery" name="CyanogenMod/androiMarsle_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs,pdk-fs" />
@@ -518,7 +518,7 @@
 
   <project name="MarshRom/android_device_oneplus_bacon" path="device/oneplus/bacon" />
   <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" />
-  <project name="MarshRom/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" />
+  <project name="jgcaap/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="cm'13.0sc"/>
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" />
   <project name="MarshRom/proprietary_vendor_oneplus" path="vendor/oneplus" />
 

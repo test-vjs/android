@@ -1,8 +1,6 @@
 Marsh
 ===========
 
-Lol, this does not contain everything because I can't remember all the places I changed stuff...
-But it has Blur!
 
 
 Submitting Patches

@@ -533,8 +533,11 @@
   <project name="MarshRom/android_device_xiaomi_kenzo" path="device/xiaomi/kenzo" />
   <project name="MarshRom/proprietary_vendor_xiaomi" path="vendor/xiaomi" />
   <project name="MarshRom/android_kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" revision="cm-13.0"/>
+  
   <!-- Kiwi... -->
   <project name="MarshRom/proprietary_vendor_huawei" path="vendor/huawei" />
+  
+  <!--w5-->
   <project name="MarshRom/proprietary_vendor_lge" path="vendor/lge" />
   
 </manifest>
